@@ -2,7 +2,7 @@
 /*
  *	Made by Samerton
  *  https://github.com/NamelessMC/Nameless/
- *  NamelessMC version 2.0.0-pr5
+ *  NamelessMC version 2.0.0-pr6
  *
  *  License: MIT
  *
@@ -23,8 +23,8 @@ if(!class_exists('BlackDashboard_Panel_Template')){
 
 			parent::__construct(
 				'BlackDashboard',  // Template name
-				'2.0.0-pr5',  // Template version
-				'2.0.0-pr5',  // Nameless version template is made for
+				'1.0.0',  // Template version
+				'2.0.0-pr6',  // Nameless version template is made for
 				'<a href="https://namelessmc.com/">Samerton</a>'  // Author, you can use HTML here
 			);
 
