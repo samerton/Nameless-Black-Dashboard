@@ -1,10 +1,10 @@
 {include file='header.tpl'}
 <body>
 <div class="wrapper">
-    {include file='navbar.tpl'}
+    {include file='sidebar.tpl'}
 
     <div class="main-panel">
-        {include file='sidebar.tpl'}
+        {include file='navbar.tpl'}
 
         <div class="content">
             <div class="container-fluid">
