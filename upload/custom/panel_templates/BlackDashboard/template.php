@@ -23,7 +23,7 @@ if(!class_exists('BlackDashboard_Panel_Template')){
 
 			parent::__construct(
 				'BlackDashboard',  // Template name
-				'1.0.0',  // Template version
+				'1.0.2',  // Template version
 				'2.0.0-pr6',  // Nameless version template is made for
 				'<a href="https://namelessmc.com/">Samerton</a>'  // Author, you can use HTML here
 			);
